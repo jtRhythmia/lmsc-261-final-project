@@ -12,3 +12,7 @@
 .gallery:hover{
     border: 3px solid hsl(13, 91%, 49%);
 }
+
+.videogallery{
+    display: inline-block;
+}
